@@ -1,0 +1,11 @@
+setup.py
+clustering/__init__.py
+clustering/describe.py
+clustering/main.py
+mypackage/__init__.py
+mypackage/mymodule1.py
+mypackage/mymodule2.py
+playgroundproj.egg-info/PKG-INFO
+playgroundproj.egg-info/SOURCES.txt
+playgroundproj.egg-info/dependency_links.txt
+playgroundproj.egg-info/top_level.txt
